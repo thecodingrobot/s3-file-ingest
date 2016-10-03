@@ -1,7 +1,7 @@
-package com.codingrobot.ftps3
+package com.codingrobot.s3ingest
 
 import com.amazonaws.services.s3.AmazonS3Client
-import com.codingrobot.ftps3.camel.ProcessFlowsS3Route
+import com.codingrobot.s3ingest.camel.ProcessFlowsS3Route
 import com.typesafe.config.ConfigFactory
 import com.typesafe.scalalogging.StrictLogging
 import org.apache.camel.CamelContext

@@ -3,7 +3,7 @@ enablePlugins(JavaServerAppPackaging)
 
 enablePlugins(RpmPlugin)
 
-name := "ftps3"
+name := "s3ingest"
 
 version := "1.0"
 

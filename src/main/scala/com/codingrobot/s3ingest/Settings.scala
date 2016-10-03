@@ -1,4 +1,4 @@
-package com.codingrobot.ftps3
+package com.codingrobot.s3ingest
 
 import com.typesafe.config.Config
 

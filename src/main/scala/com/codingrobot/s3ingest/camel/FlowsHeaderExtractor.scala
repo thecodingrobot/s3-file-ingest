@@ -1,4 +1,4 @@
-package com.codingrobot.ftps3.camel
+package com.codingrobot.s3ingest.camel
 
 import java.io.File
 import java.util.Scanner
